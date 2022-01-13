@@ -113,3 +113,40 @@ input[type="checkbox"] {
   padding-top: 15px;
   font-size: 45px;
 }
+
+.form {
+  margin: 20px;
+  margin-top: 40px;
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 35px;
+  margin-bottom: 15px;
+}
+
+.separator {
+  margin: 10px;
+  margin-left: 0;
+  font-size: 20px;
+}
+
+input[type="text"] {
+  height: 50px;
+  width: 300px;
+  border: none;
+  margin-right: 10px;
+}
+
+.euro {
+  font-size: 25px;
+}
+
+.submit {
+  color: white;
+  background-color: rgb(101, 128, 203);
+  border: none;
+  height: 35px;
+  width: 70px;
+  font-size: 15px;
+}
