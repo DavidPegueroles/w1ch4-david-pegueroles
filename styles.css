@@ -43,3 +43,7 @@ a {
   min-width: 215px;
   font-size: 20px;
 }
+
+.marked {
+  font-weight: bold;
+}
